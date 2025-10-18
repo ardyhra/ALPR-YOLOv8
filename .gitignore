@@ -1,0 +1,17 @@
+# data mentah & turunan training
+alpr-detector/IndonesianPlate/plate_detection_dataset
+alpr-detector/IndonesianPlate/plate_text_dataset
+alpr-detector/yolo_data/images/
+alpr-detector/yolo_data/labels/
+runs/
+alpr-detector/ocr_data/train/
+alpr-detector/ocr_data/val/
+alpr-detector/ocr_data/test/
+.venv/
+*.pt
+*.onnx
+*.bin
+*.safetensors
+# cache
+__pycache__/
+*.log

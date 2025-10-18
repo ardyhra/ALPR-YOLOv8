@@ -1,0 +1,16 @@
+torch>=2.1.0
+torchvision>=0.16.0
+opencv-python
+numpy
+pandas
+tqdm
+python-Levenshtein
+editdistance
+albumentations
+scikit-learn
+matplotlib
+# Hugging Face (untuk TrOCR)
+transformers>=4.40.0
+datasets
+sentencepiece
+accelerate
